@@ -1,0 +1,1 @@
+packageJobJar: [/home/hduser/python/mapper1.py, /home/hduser/python/reducer1.py] [] /tmp/streamjob4817154206965170380.jar tmpDir=null
